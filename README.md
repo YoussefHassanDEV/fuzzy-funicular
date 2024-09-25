@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif"
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif"/>
 
 
 
